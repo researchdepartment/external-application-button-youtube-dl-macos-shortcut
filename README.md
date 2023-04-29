@@ -2,7 +2,7 @@
 
 For use with https://webextension.org/listing/external-application-button.html
 
-launcher: [youtube-dl.app/MacOS/youtube-dl](youtube-dl.app/MacOS/youtube-dl)
+launcher: [youtube-dl.app/Contents/MacOS/youtube-dl](youtube-dl.app/Contents/MacOS/youtube-dl)
 
 ---
 
