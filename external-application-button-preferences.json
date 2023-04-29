@@ -1,0 +1,170 @@
+{
+	"active": "",
+	"apps": {
+		"0.6090990844999528": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "",
+			"name": "Open in Firefox",
+			"path": "open",
+			"args": "-a firefox [HREF]",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"page",
+				"link",
+				"image",
+				"video",
+				"audio"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": ""
+		},
+		"0.9540486326560449": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "",
+			"name": "Open in Opera",
+			"path": "open",
+			"args": "-a \"/Applications/Opera GX.app\" [HREF]",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"page",
+				"link",
+				"image",
+				"video",
+				"audio"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": ""
+		},
+		"0.04236375101746126": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "",
+			"name": "Open in Chrome",
+			"path": "open",
+			"args": "-a \"/Applications/Google Chrome.app\" [HREF]",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"page",
+				"link",
+				"image",
+				"video",
+				"audio"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": ""
+		},
+		"0.08657974338321839": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": true,
+			"closeme": false,
+			"changestate": "",
+			"name": "youtube-dl",
+			"path": "open",
+			"args": "-n -a /Applications/youtube-dl.app --args [HREF]",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"page",
+				"frame",
+				"selection",
+				"link",
+				"video",
+				"audio"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": ""
+		},
+		"0.20989605254011112": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "",
+			"name": "Open in Orion",
+			"path": "open",
+			"args": "-a \"/Applications/Orion.app\" [HREF]",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"page",
+				"link",
+				"image",
+				"video",
+				"audio"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": ""
+		},
+		"0.6441694181074384": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "",
+			"name": "Open in Safari",
+			"path": "open",
+			"args": "-a \"/Applications/Safari.app\" [HREF]",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"page",
+				"link",
+				"image",
+				"video",
+				"audio"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": ""
+		},
+		"0.6930842626582906": {
+			"icon": "/data/icons/app.png",
+			"errors": false,
+			"quotes": false,
+			"closeme": false,
+			"changestate": "",
+			"name": "Open in VLC",
+			"path": "open",
+			"args": "-a VLC [HREF]",
+			"pre": "",
+			"post": "",
+			"toolbar": false,
+			"context": [
+				"page",
+				"frame",
+				"selection",
+				"link",
+				"video",
+				"audio"
+			],
+			"pattern": "",
+			"filters": "",
+			"redirects": ""
+		}
+	},
+	"last-update": 1682712082351,
+	"save": "0.6930842626582906"
+}
